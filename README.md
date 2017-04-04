@@ -7,9 +7,9 @@ http://www.olcot.co.uk
 
 (ordered by latest published)
 
-**SqlPostcodeLookupCLR**
-http://www.olcot.co.uk/convert-uk-postcode-to-latitude-longitude-northing-easting-using-sql-clr/
- * SqlPostcodeLookupCLR\SqlPostcodeLookup proj+dll.zip
+**SqlPostcodeLookupCLR**  
+http://www.olcot.co.uk/convert-uk-postcode-to-latitude-longitude-northing-easting-using-sql-clr/  
+ * SqlPostcodeLookupCLR\SqlPostcodeLookup proj+dll.zip  
  
 **FIGlet SQLCLR ASCII Font Art**  
 http://www.olcot.co.uk/figlet-sqlclr  
